@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="nld" ttp:cellResolution="25 44">
+   <head>
+      <smpte:information smpte:mode="Enhanced" />
+      <metadata>
+         <ttm:title />
+         <ttm:desc />
+         <ttm:copyright />
+      </metadata>
+      <styling>
+         <style xml:id="backgroundStyle" tts:backgroundColor="rgba(0,0,0,0)" tts:displayAlign="center" tts:extent="100% 33%" tts:fontFamily="proportionalSansSerif" tts:fontSize="18px" tts:origin="0% 66%" tts:textAlign="center" />
+         <style style="backgroundStyle" xml:id="speakerStyle" tts:backgroundColor="transparent" tts:color="white" tts:textOutline="black 1px" />
+         <style style="speakerStyle" xml:id="textStyle" tts:backgroundColor="black" tts:color="white" tts:textOutline="none" />
+         <style xml:id="singleHeightStyle" tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="center" tts:extent="100% 33%" tts:fontFamily="proportionalSansSerif" tts:fontSize="1c" tts:origin="0% 66%" tts:textAlign="center" tts:textOutline="none" />
+         <style xml:id="doubleHeightStyle" tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="center" tts:extent="100% 33%" tts:fontFamily="proportionalSansSerif" tts:fontSize="2c" tts:origin="0% 66%" tts:textAlign="center" tts:textOutline="none" />
+      </styling>
+      <layout>
+         <region xml:id="full" tts:extent="100% 100%" tts:origin="0% 0%" tts:zIndex="1" />
+         <region style="speakerStyle" xml:id="speaker" tts:zIndex="1" />
+         <region style="backgroundStyle" xml:id="background" tts:zIndex="0" />
+         <region xml:id="region-13" tts:extent="90% 19%" tts:origin="5% 52%" />
+         <region xml:id="region-1" tts:extent="90% 10%" tts:origin="5% 52%" />
+      </layout>
+   </head>
+   <body>
+      <div>
+         <p begin="00:00:03.128" end="00:00:06.368" region="region-13" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">       </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> Als afscheidscadeau </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">        </span>
+            <br />
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> zou ik hem dit boekje willen geven </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan"> </span>
+         </p>
+         <p begin="00:00:06.448" end="00:00:08.448" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">  </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> met foto's en tekstjes erin. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">    </span>
+         </p>
+         <p begin="00:00:08.528" end="00:00:10.568" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> Rosa en Waldek schreven ook al iets,</span>
+         </p>
+         <p begin="00:00:10.648" end="00:00:13.528" region="region-13" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">   </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> maar ik zou het fijn vinden </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">    </span>
+            <br />
+            <span style="doubleHeightStyle" xml:space="preserve">    </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> als jij dat ook zou doen. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">     </span>
+         </p>
+         <p begin="00:00:13.608" end="00:00:15.208" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">      </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:backgroundColor="black"> Het is tijd voor actie. </span>
+            <span style="doubleHeightStyle" xml:space="preserve">      </span>
+         </p>
+         <p begin="00:00:16.408" end="00:00:19.928" region="region-13" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">  </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:backgroundColor="black"> Zodra ze op dat vliegtuig zit, </span>
+            <span style="doubleHeightStyle" xml:space="preserve">   </span>
+            <br />
+            <span style="doubleHeightStyle" xml:space="preserve">          </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:backgroundColor="black"> is het te laat. </span>
+            <span style="doubleHeightStyle" xml:space="preserve">          </span>
+         </p>
+         <p begin="00:00:21.288" end="00:00:22.488" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">       </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:backgroundColor="black"> Ben je er klaar voor? </span>
+            <span style="doubleHeightStyle" xml:space="preserve">       </span>
+         </p>
+         <p begin="00:00:23.088" end="00:00:24.808" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve"> </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> Ja, maar ik heb wel wat stress. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">  </span>
+         </p>
+         <p begin="00:00:24.888" end="00:00:27.488" region="region-13" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">    </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> Maar het is goeie stress, </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">     </span>
+            <br />
+            <span style="doubleHeightStyle" xml:space="preserve">     </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> want ik heb er zin in. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">       </span>
+         </p>
+         <p begin="00:00:27.568" end="00:00:31.168" region="region-13" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve"> </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> We moeten nu vertrekken. Je kan </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">  </span>
+            <br />
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> bellen als we in de auto zitten. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">  </span>
+         </p>
+         <p begin="00:00:31.248" end="00:00:35.248" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">     </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="yellow" tts:backgroundColor="black"> Drie, twee, een. Pang. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="yellow">       </span>
+         </p>
+         <p begin="00:00:36.928" end="00:00:40.848" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve" tts:backgroundColor="black"> * Je bent nergens beter dan thuis * </span>
+            <span style="doubleHeightStyle" xml:space="preserve"> </span>
+         </p>
+         <p begin="00:00:55.008" end="00:00:57.368" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve" tts:backgroundColor="black"> Wat is de bedoeling? Waar zijn wij? </span>
+            <span style="doubleHeightStyle" xml:space="preserve"> </span>
+         </p>
+         <p begin="00:00:59.288" end="00:01:00.288" region="region-1" tts:textAlign="center">
+            <span style="doubleHeightStyle" xml:space="preserve">              </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan" tts:backgroundColor="black"> Kom. </span>
+            <span style="doubleHeightStyle" xml:space="preserve" tts:color="cyan">                </span>
+         </p>
+      </div>
+   </body>
+</tt>
