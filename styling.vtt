@@ -7,8 +7,8 @@ test text 1-4s
 2 lines test text 5-10s
 second line
 
-00:00:10.600 --> 00:00:15.439 vertical:lr line:-1 align:end
+00:00:10.600 --> 00:00:15.439 vertical:lr line:85% align:end
 third text 10-15s
 
-00:00:15.600 --> 00:00:20.439 align:center line:90% size:120% color:yellow background-image: linear-gradient(blue, blue)
+00:00:15.600 --> 00:00:20.439 align:center line:85% size:120% color:yellow
 colorful text 15-20s
