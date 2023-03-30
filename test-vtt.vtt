@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.600 align:left line:80% position:50% size:100%
+test text 1-4s
+
+00:00:05.600 --> 00:00:10.439 line:50%
+3 lines test... in the middle
+text 5-10s
+third line
+
+00:00:10.600 --> 00:00:15.439 line:85%
+<c.red>This is red text.</c>
+
+00:00:15.600 --> 00:00:20.439 align:center size:200%
+<c.yellow>This <i>yellow</i> caption </c>
+<c.yellow>is at the bottom and huge. </c>
